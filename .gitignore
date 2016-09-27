@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.woff2
+*.svg
+*.ttf
+*.eot
+*.woff
+build/bundle.js
